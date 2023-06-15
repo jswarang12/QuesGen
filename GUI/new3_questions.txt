@@ -1,0 +1,21 @@
+कौन re import कौन import कौन import कौन as sg कौन?
+कौन to कौन the text कौन cleantexttext कौन resubrd कौन text कौन text कौन stringpunctuation कौन text?
+कौन generate कौन the कौन def कौन cleanedtext कौन?
+कौन PARSING कौन stanzaPipelinelanghi कौन tokenizenossplitTrue कौन nlpcleanedtex?
+कौन questions कौन for कौन docsentences कौन numnouns कौन for कौन sentencewords कौन wordupos कौन if कौन CaseNom कौन numnouns कौन question कौन question कौन else कौन wordtext कौन numnouns कौन question कौन question कौन questionstrip कौन questionstripstringpunctuatio कौन resubrs कौन if lenquestion कौन?
+कौन question?
+कौन the theme and कौन styling कौन sgsetoptionselementpaddin?
+कौन the GUI कौन layout कौन sgTextHindi कौन Story कौन Generator कौन bold कौन sgTextTeam कौन Team कौन Give कौन fontArial कौन sgTextSelect कौन File कौन sgInputkeySTORYFILE कौन enerate कौन keyGENERATE कौन fontArial कौन Us कौन fontArial कौन keyOUTPUT कौन textcolor?
+कौन the GUI कौन window कौन Fable कौन Question कौन layout कौन?
+कौन loop कौन GUI कौन True कौन values कौन?
+the कौन is closed or the कौन button is कौन exit the कौन if event कौन or event कौन brea?
+the कौन Questions कौन clicked कौन the कौन event कौन storyfile कौन?
+कौन if the story कौन provided if कौन try कौन story from कौन with openstoryfile कौन as file कौन filerea?
+कौन questions कौन story कौन generatequestionsstorytex?
+कौन the questions कौन output कौन basename कौन ospathsplitextbasenam कौन encodingutf कौन question कौन fwritequestionstrip?
+कौन success कौन printfS कौन generated कौन Saved to कौन except कौन as Display कौन message कौन generating कौन stre कौन Display कौन message if कौन story कौन provided कौन select कौन file?
+the About कौन button is कौन display कौन about the कौन members कौन aboutlayout Us कौन justificationcenter कौन size कौन size कौन fontArial कौन fontArial कौन fontArial कौन size कौन buttoncolorwhit?
+कौन sgWindowAbout कौन aboutlayout कौन?
+कौन True कौन values कौन if कौन CLOSE कौन break?
+कौन?
+कौन?
