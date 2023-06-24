@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Hindi Fable Story Question Generator</title>
+</head>
+<body>
+    <h1>Hindi Fable Story Question Generator</h1>
+    <form action="/" method="POST" enctype="multipart/form-data">
+        <label for="story_file">Select Story File:</label>
+        <input type="file" name="story_file" id="story_file" required>
+        <br>
+        <button type="submit">Generate Questions</button>
+    </form>
+
+    {% if questions %}
+        <h2>Generated Questions:</h2>
+        <ul>
+        {% for case_questions in questions %}
+            {% for question in case_questions %}
+                <li>{{ question }}</li>
+            {% endfor %}
+        {% endfor %}
+        </ul>
+    {% endif %}
+</body>
+</html>
